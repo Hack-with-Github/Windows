@@ -1,0 +1,3 @@
+[submodule "UACME"]
+	path = UACME
+	url = https://github.com/hfiref0x/UACME.git
