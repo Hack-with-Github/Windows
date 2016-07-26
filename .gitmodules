@@ -16,3 +16,6 @@
 [submodule "Windows-Exploit-Suggester"]
 	path = Windows-Exploit-Suggester
 	url = https://github.com/GDSSecurity/Windows-Exploit-Suggester
+[submodule "Exploitation"]
+	path = Exploitation
+	url = https://github.com/hacksysteam/Exploitation
