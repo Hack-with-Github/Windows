@@ -7,3 +7,6 @@
 [submodule "mimikittenz"]
 	path = mimikittenz
 	url = https://github.com/putterpanda/mimikittenz.git
+[submodule "Potato"]
+	path = Potato
+	url = https://github.com/foxglovesec/Potato
