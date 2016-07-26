@@ -10,3 +10,6 @@
 [submodule "Potato"]
 	path = Potato
 	url = https://github.com/foxglovesec/Potato
+[submodule "Pazuzu"]
+	path = Pazuzu
+	url = https://github.com/BorjaMerino/Pazuzu
