@@ -13,3 +13,6 @@
 [submodule "Pazuzu"]
 	path = Pazuzu
 	url = https://github.com/BorjaMerino/Pazuzu
+[submodule "Windows-Exploit-Suggester"]
+	path = Windows-Exploit-Suggester
+	url = https://github.com/GDSSecurity/Windows-Exploit-Suggester
