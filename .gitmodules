@@ -1,3 +1,6 @@
 [submodule "UACME"]
 	path = UACME
 	url = https://github.com/hfiref0x/UACME.git
+[submodule "mimikatz"]
+	path = mimikatz
+	url = https://github.com/gentilkiwi/mimikatz
