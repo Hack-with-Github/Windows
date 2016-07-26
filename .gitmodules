@@ -4,3 +4,6 @@
 [submodule "mimikatz"]
 	path = mimikatz
 	url = https://github.com/gentilkiwi/mimikatz
+[submodule "mimikittenz"]
+	path = mimikittenz
+	url = https://github.com/putterpanda/mimikittenz.git
