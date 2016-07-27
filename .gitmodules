@@ -46,3 +46,6 @@
 [submodule "Misc/PowerShellArsenal"]
 	path = Misc/PowerShellArsenal
 	url = https://github.com/mattifestation/PowerShellArsenal
+[submodule "hacking-team-windows-kernel-lpe"]
+	path = hacking-team-windows-kernel-lpe
+	url = https://github.com/vlad902/hacking-team-windows-kernel-lpe
