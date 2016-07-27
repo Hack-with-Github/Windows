@@ -43,3 +43,6 @@
 [submodule "Misc/Invoke-LoginPrompt"]
 	path = Misc/Invoke-LoginPrompt
 	url = https://github.com/enigma0x3/Invoke-LoginPrompt
+[submodule "Misc/PowerShellArsenal"]
+	path = Misc/PowerShellArsenal
+	url = https://github.com/mattifestation/PowerShellArsenal
