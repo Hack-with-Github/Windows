@@ -25,3 +25,21 @@
 [submodule "Powershell/PowerTools"]
 	path = Powershell/PowerTools
 	url = https://github.com/PowerShellEmpire/PowerTools
+[submodule "Powershell/Generate-Macro"]
+	path = Powershell/Generate-Macro
+	url = https://github.com/enigma0x3/Generate-Macro
+[submodule "Powershell/Invoke-AltDSBackdoor"]
+	path = Powershell/Invoke-AltDSBackdoor
+	url = https://github.com/enigma0x3/Invoke-AltDSBackdoor
+[submodule "Powershell/Old-Powershell-payload-Excel-Delivery"]
+	path = Powershell/Old-Powershell-payload-Excel-Delivery
+	url = https://github.com/enigma0x3/Old-Powershell-payload-Excel-Delivery
+[submodule "Powershell/Powershell-Payload-Excel-Delivery"]
+	path = Powershell/Powershell-Payload-Excel-Delivery
+	url = https://github.com/enigma0x3/Powershell-Payload-Excel-Delivery
+[submodule "Powershell/Powershell-C2"]
+	path = Powershell/Powershell-C2
+	url = https://github.com/enigma0x3/Powershell-C2
+[submodule "Misc/Invoke-LoginPrompt"]
+	path = Misc/Invoke-LoginPrompt
+	url = https://github.com/enigma0x3/Invoke-LoginPrompt
