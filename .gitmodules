@@ -19,9 +19,6 @@
 [submodule "Exploitation"]
 	path = Exploitation
 	url = https://github.com/hacksysteam/Exploitation
-[submodule "Generate-Macro"]
-	path = Generate-Macro
-	url = https://github.com/enigma0x3/Generate-Macro
 [submodule "Powershell/Empire"]
 	path = Powershell/Empire
 	url = https://github.com/PowerShellEmpire/Empire
