@@ -49,3 +49,6 @@
 [submodule "hacking-team-windows-kernel-lpe"]
 	path = hacking-team-windows-kernel-lpe
 	url = https://github.com/vlad902/hacking-team-windows-kernel-lpe
+[submodule "Misc/afot"]
+	path = Misc/afot
+	url = https://github.com/harris21/afot
