@@ -52,3 +52,6 @@
 [submodule "Misc/afot"]
 	path = Misc/afot
 	url = https://github.com/harris21/afot
+[submodule "Misc/Winpayloads"]
+	path = Misc/Winpayloads
+	url = https://github.com/nccgroup/Winpayloads
