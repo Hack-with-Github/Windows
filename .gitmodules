@@ -55,3 +55,6 @@
 [submodule "Misc/Winpayloads"]
 	path = Misc/Winpayloads
 	url = https://github.com/nccgroup/Winpayloads
+[submodule "Powershell/PSRecon"]
+	path = Powershell/PSRecon
+	url = https://github.com/gfoss/PSRecon
