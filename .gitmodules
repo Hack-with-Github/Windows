@@ -58,3 +58,6 @@
 [submodule "Powershell/PSRecon"]
 	path = Powershell/PSRecon
 	url = https://github.com/gfoss/PSRecon
+[submodule "Powershell/PowerSploit"]
+	path = Powershell/PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit
