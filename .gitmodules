@@ -64,3 +64,6 @@
 [submodule "Powershell/BloodHound"]
 	path = Powershell/BloodHound
 	url = https://github.com/adaptivethreat/BloodHound
+[submodule "Powershell/PowerShell-Suite"]
+	path = Powershell/PowerShell-Suite
+	url = https://github.com/FuzzySecurity/PowerShell-Suite
