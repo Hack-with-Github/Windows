@@ -61,3 +61,6 @@
 [submodule "Powershell/PowerSploit"]
 	path = Powershell/PowerSploit
 	url = https://github.com/PowerShellMafia/PowerSploit
+[submodule "Powershell/BloodHound"]
+	path = Powershell/BloodHound
+	url = https://github.com/adaptivethreat/BloodHound
