@@ -67,3 +67,6 @@
 [submodule "Powershell/PowerShell-Suite"]
 	path = Powershell/PowerShell-Suite
 	url = https://github.com/FuzzySecurity/PowerShell-Suite
+[submodule "Powershell/mimikittenz"]
+	path = Powershell/mimikittenz
+	url = https://github.com/putterpanda/mimikittenz
